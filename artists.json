@@ -1,8 +1,6 @@
 [
   {
-    "external_urls": {
-      "spotify": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-    },
+    "external_urls": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr",
     "followers": {
       "href": null,
       "total": 192508
@@ -33,9 +31,7 @@
     "uri": "spotify:artist:1496XxkytEk26FUJLfpVZr"
   },
   {
-    "external_urls": {
-      "spotify": "https://open.spotify.com/artist/5VfsJtcTOUghb9eRPpif27"
-    },
+    "external_urls": "https://open.spotify.com/artist/5VfsJtcTOUghb9eRPpif27",
     "followers": {
       "href": null,
       "total": 21091
