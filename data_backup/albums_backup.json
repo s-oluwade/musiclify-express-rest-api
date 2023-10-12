@@ -1,0 +1,227 @@
+[
+  {
+    "artist": "CloZee",
+    "href": "https://api.spotify.com/v1/albums/1OrVf4ejXLTMfWUiXtXU3C",
+    "id": "1OrVf4ejXLTMfWUiXtXU3C",
+    "name": "Microworlds",
+    "release_date": "2023-07-21",
+    "release_date_precision": "day",
+    "total_tracks": 12
+  },
+  {
+    "artist": "CloZee",
+    "href": "https://api.spotify.com/v1/albums/63HO6iGZB9OZRpW9gMEIwg",
+    "id": "63HO6iGZB9OZRpW9gMEIwg",
+    "name": "Neon Jungle",
+    "release_date": "2020-07-03",
+    "release_date_precision": "day",
+    "total_tracks": 10
+  },
+  {
+    "artist": "Ennja",
+    "href": "https://api.spotify.com/v1/albums/1DFSDbGbMV38jWlcn1VcTJ",
+    "id": "1DFSDbGbMV38jWlcn1VcTJ",
+    "name": "Duality",
+    "release_date": "2021-12-24",
+    "release_date_precision": "day",
+    "total_tracks": 10
+  },
+  {
+    "artist": "Ennja",
+    "href": "https://api.spotify.com/v1/albums/1ELtet1ncLdQWW7vaZLL2G",
+    "id": "1ELtet1ncLdQWW7vaZLL2G",
+    "name": "Unclarity & Unresolvness",
+    "release_date": "2018-08-31",
+    "release_date_precision": "day",
+    "total_tracks": 12
+  },
+  {
+    "artist": "Skeler",
+    "href": "https://api.spotify.com/v1/albums/2GpCp4A6EBmKggyE396aY3",
+    "id": "2GpCp4A6EBmKggyE396aY3",
+    "name": "No Words (Instrumentals Pt. 1)",
+    "release_date": "2023-08-04",
+    "release_date_precision": "day",
+    "total_tracks": 7
+  },
+  {
+    "artist": "Skeler",
+    "href": "https://api.spotify.com/v1/albums/5bqYFiXvYhhHEk5dnjIDof",
+    "id": "5bqYFiXvYhhHEk5dnjIDof",
+    "name": "N i g h t D r i v e スケラー PART II",
+    "release_date": "2023-03-24",
+    "release_date_precision": "day",
+    "total_tracks": 12
+  },
+  {
+    "artist": "Skeler",
+    "href": "https://api.spotify.com/v1/albums/5Vk1caKy6OIgM2uOVeokLJ",
+    "id": "5Vk1caKy6OIgM2uOVeokLJ",
+    "name": "N i g h t D r i v e スケラー",
+    "release_date": "2023-03-10",
+    "release_date_precision": "day",
+    "total_tracks": 10
+  },
+  {
+    "artist": "Noah B",
+    "href": "https://api.spotify.com/v1/albums/0V2hdft5TDYnC4aRu72Aka",
+    "id": "0V2hdft5TDYnC4aRu72Aka",
+    "name": "Heavy Armor LP",
+    "release_date": "2020-10-30",
+    "release_date_precision": "day",
+    "total_tracks": 12
+  },
+  {
+    "artist": "Noah B",
+    "href": "https://api.spotify.com/v1/albums/4FyBJF9NNfO9Irl0kD1XsV",
+    "id": "4FyBJF9NNfO9Irl0kD1XsV",
+    "name": "South Hills",
+    "release_date": "2018-06-27",
+    "release_date_precision": "day",
+    "total_tracks": 14
+  },
+  {
+    "artist": "Klimeks",
+    "href": "https://api.spotify.com/v1/albums/1JuLPPVn5wVMTXTgOy4v5K",
+    "id": "1JuLPPVn5wVMTXTgOy4v5K",
+    "name": "Mysteria",
+    "release_date": "2019-01-31",
+    "release_date_precision": "day",
+    "total_tracks": 8
+  },
+  {
+    "artist": "Klimeks",
+    "href": "https://api.spotify.com/v1/albums/5dm1oq4zHFfFHEITmYrNcv",
+    "id": "5dm1oq4zHFfFHEITmYrNcv",
+    "name": "Love Dream Infinite",
+    "release_date": "2018-02-08",
+    "release_date_precision": "day",
+    "total_tracks": 8
+  },
+  {
+    "artist": "Klimeks",
+    "href": "https://api.spotify.com/v1/albums/20ZkUqZBWtK77Su0rhMPlJ",
+    "id": "20ZkUqZBWtK77Su0rhMPlJ",
+    "name": "Nibbles",
+    "release_date": "2013-10-29",
+    "release_date_precision": "day",
+    "total_tracks": 9
+  },
+  {
+    "artist": "Klimeks",
+    "href": "https://api.spotify.com/v1/albums/78JGOykSq6tI0qSFBnnT9v",
+    "id": "78JGOykSq6tI0qSFBnnT9v",
+    "name": "Scorpio",
+    "release_date": "2022-11-27",
+    "release_date_precision": "day",
+    "total_tracks": 4
+  },
+  {
+    "artist": "Aekae",
+    "href": "https://api.spotify.com/v1/albums/5itMlJ1lyYoazsBdrxetoe",
+    "id": "5itMlJ1lyYoazsBdrxetoe",
+    "name": "Ether",
+    "release_date": "2023-07-21",
+    "release_date_precision": "day",
+    "total_tracks": 1
+  },
+  {
+    "artist": "Aekae",
+    "href": "https://api.spotify.com/v1/albums/2vYNax2J8NH48wkUFkU5aE",
+    "id": "2vYNax2J8NH48wkUFkU5aE",
+    "name": "Covert",
+    "release_date": "2023-06-15",
+    "release_date_precision": "day",
+    "total_tracks": 1
+  },
+  {
+    "artist": "Aekae",
+    "href": "https://api.spotify.com/v1/albums/7F0RDEYUKydDToV1vCB21s",
+    "id": "7F0RDEYUKydDToV1vCB21s",
+    "name": "Arcane",
+    "release_date": "2023-05-19",
+    "release_date_precision": "day",
+    "total_tracks": 1
+  },
+  {
+    "artist": "Aekae",
+    "href": "https://api.spotify.com/v1/albums/1KPwbdEdvuQEoLL7Zw5D33",
+    "id": "1KPwbdEdvuQEoLL7Zw5D33",
+    "name": "Archangel",
+    "release_date": "2023-01-27",
+    "release_date_precision": "day",
+    "total_tracks": 1
+  },
+  {
+    "artist": "Rautu",
+    "href": "https://api.spotify.com/v1/albums/2kZOVA4tPLbDjdslT8nMFV",
+    "id": "2kZOVA4tPLbDjdslT8nMFV",
+    "name": "Cybersymphony",
+    "release_date": "2023-08-09",
+    "release_date_precision": "day",
+    "total_tracks": 10
+  },
+  {
+    "artist": "Rautu",
+    "href": "https://api.spotify.com/v1/albums/04RgD9Pmthh7hSBmQRk32y",
+    "id": "04RgD9Pmthh7hSBmQRk32y",
+    "name": "Cassiopeia",
+    "release_date": "2022-09-22",
+    "release_date_precision": "day",
+    "total_tracks": 10
+  },
+  {
+    "artist": "Nastya Kazantseva",
+    "href": "https://api.spotify.com/v1/albums/5js66DxfLmriAqK94R6yt5",
+    "id": "5js66DxfLmriAqK94R6yt5",
+    "name": "Serene Morning",
+    "release_date": "2021-04-13",
+    "release_date_precision": "day",
+    "total_tracks": 1
+  },
+  {
+    "artist": "Nastya Kazantseva",
+    "href": "https://api.spotify.com/v1/albums/4DGVlxfUW64EcSPXXDaw73",
+    "id": "4DGVlxfUW64EcSPXXDaw73",
+    "name": "Freedom",
+    "release_date": "2021-03-08",
+    "release_date_precision": "day",
+    "total_tracks": 1
+  },
+  {
+    "artist": "Nastya Kazantseva",
+    "href": "https://api.spotify.com/v1/albums/6ZMIPSFxLbL2uEReMs20oj",
+    "id": "6ZMIPSFxLbL2uEReMs20oj",
+    "name": "Midnight",
+    "release_date": "2020-06-16",
+    "release_date_precision": "day",
+    "total_tracks": 1
+  },
+  {
+    "artist": "Nastya Kazantseva",
+    "href": "https://api.spotify.com/v1/albums/4WSw06tArFHjB1ZoEoKojs",
+    "id": "4WSw06tArFHjB1ZoEoKojs",
+    "name": "Self-Isolation",
+    "release_date": "2020-04-18",
+    "release_date_precision": "day",
+    "total_tracks": 1
+  },
+  {
+    "artist": "Nastya Kazantseva",
+    "href": "https://api.spotify.com/v1/albums/5Uj3wfa4KQwjhK4XuPQxfs",
+    "id": "5Uj3wfa4KQwjhK4XuPQxfs",
+    "name": "Envision",
+    "release_date": "2020-03-26",
+    "release_date_precision": "day",
+    "total_tracks": 1
+  },
+  {
+    "artist": "skyfall beats",
+    "href": "https://api.spotify.com/v1/albums/4agbz1DCkaEqaruPBgYmdZ",
+    "id": "4agbz1DCkaEqaruPBgYmdZ",
+    "name": "apogee",
+    "release_date": "2022-08-24",
+    "release_date_precision": "day",
+    "total_tracks": 8
+  }
+]
