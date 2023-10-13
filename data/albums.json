@@ -1,7 +1,6 @@
 [
   {
     "name": "Microworlds",
-    "artist": "CloZee",
     "artist_id": 1,
     "href": "https://api.spotify.com/v1/albums/1OrVf4ejXLTMfWUiXtXU3C",
     "spotify_id": "1OrVf4ejXLTMfWUiXtXU3C",
@@ -10,7 +9,6 @@
   },
   {
     "name": "Duality",
-    "artist": "Ennja",
     "artist_id": 2,
     "href": "https://api.spotify.com/v1/albums/1DFSDbGbMV38jWlcn1VcTJ",
     "spotify_id": "1DFSDbGbMV38jWlcn1VcTJ",
@@ -19,7 +17,6 @@
   },
   {
     "name": "No Words (Instrumentals Pt. 1)",
-    "artist": "Skeler",
     "artist_id": 3,
     "href": "https://api.spotify.com/v1/albums/2GpCp4A6EBmKggyE396aY3",
     "spotify_id": "2GpCp4A6EBmKggyE396aY3",
@@ -28,7 +25,6 @@
   },
   {
     "name": "South Hills",
-    "artist": "Noah B",
     "artist_id": 4,
     "href": "https://api.spotify.com/v1/albums/4FyBJF9NNfO9Irl0kD1XsV",
     "spotify_id": "4FyBJF9NNfO9Irl0kD1XsV",
@@ -37,7 +33,6 @@
   },
   {
     "name": "Scorpio",
-    "artist": "Klimeks",
     "artist_id": 5,
     "href": "https://api.spotify.com/v1/albums/78JGOykSq6tI0qSFBnnT9v",
     "spotify_id": "78JGOykSq6tI0qSFBnnT9v",
@@ -46,7 +41,6 @@
   },
   {
     "name": "Ether",
-    "artist": "Aekae",
     "artist_id": 6,
     "href": "https://api.spotify.com/v1/albums/5itMlJ1lyYoazsBdrxetoe",
     "spotify_id": "5itMlJ1lyYoazsBdrxetoe",
@@ -55,7 +49,6 @@
   },
   {
     "name": "Covert",
-    "artist": "Aekae",
     "artist_id": 6,
     "href": "https://api.spotify.com/v1/albums/2vYNax2J8NH48wkUFkU5aE",
     "spotify_id": "2vYNax2J8NH48wkUFkU5aE",
@@ -64,7 +57,6 @@
   },
   {
     "name": "Arcane",
-    "artist": "Aekae",
     "artist_id": 6,
     "href": "https://api.spotify.com/v1/albums/7F0RDEYUKydDToV1vCB21s",
     "spotify_id": "7F0RDEYUKydDToV1vCB21s",
@@ -73,7 +65,6 @@
   },
   {
     "name": "Archangel",
-    "artist": "Aekae",
     "artist_id": 6,
     "href": "https://api.spotify.com/v1/albums/1KPwbdEdvuQEoLL7Zw5D33",
     "spotify_id": "1KPwbdEdvuQEoLL7Zw5D33",
@@ -82,7 +73,6 @@
   },
   {
     "name": "Cybersymphony",
-    "artist": "Rautu",
     "artist_id": 7,
     "href": "https://api.spotify.com/v1/albums/2kZOVA4tPLbDjdslT8nMFV",
     "spotify_id": "2kZOVA4tPLbDjdslT8nMFV",
@@ -91,7 +81,6 @@
   },
   {
     "name": "Serene Morning",
-    "artist": "Nastya Kazantseva",
     "artist_id": 8,
     "href": "https://api.spotify.com/v1/albums/5js66DxfLmriAqK94R6yt5",
     "spotify_id": "5js66DxfLmriAqK94R6yt5",
@@ -100,7 +89,6 @@
   },
   {
     "name": "Freedom",
-    "artist": "Nastya Kazantseva",
     "artist_id": 8,
     "href": "https://api.spotify.com/v1/albums/4DGVlxfUW64EcSPXXDaw73",
     "spotify_id": "4DGVlxfUW64EcSPXXDaw73",
@@ -109,7 +97,6 @@
   },
   {
     "name": "Midnight",
-    "artist": "Nastya Kazantseva",
     "artist_id": 8,
     "href": "https://api.spotify.com/v1/albums/6ZMIPSFxLbL2uEReMs20oj",
     "spotify_id": "6ZMIPSFxLbL2uEReMs20oj",
@@ -118,7 +105,6 @@
   },
   {
     "name": "Self-Isolation",
-    "artist": "Nastya Kazantseva",
     "artist_id": 8,
     "href": "https://api.spotify.com/v1/albums/4WSw06tArFHjB1ZoEoKojs",
     "spotify_id": "4WSw06tArFHjB1ZoEoKojs",
@@ -127,7 +113,6 @@
   },
   {
     "name": "Envision",
-    "artist": "Nastya Kazantseva",
     "artist_id": 8,
     "href": "https://api.spotify.com/v1/albums/5Uj3wfa4KQwjhK4XuPQxfs",
     "spotify_id": "5Uj3wfa4KQwjhK4XuPQxfs",
@@ -136,7 +121,6 @@
   },
   {
     "name": "apogee",
-    "artist": "skyfall beats",
     "artist_id": 9,
     "href": "https://api.spotify.com/v1/albums/4agbz1DCkaEqaruPBgYmdZ",
     "spotify_id": "4agbz1DCkaEqaruPBgYmdZ",
