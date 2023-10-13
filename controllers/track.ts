@@ -1,5 +1,6 @@
-import { pool } from '../db';
-import { ITrack } from '../models/track';
+import {pool} from '../db';
+import {deleteRow, updateRow} from '../helpers/database_functions';
+import {ITrack} from '../models/track';
 
 export function getAllTracks(req: any, res: any) {
   pool.query('SELECT * FROM `track`', function (err: Error, rows: any, fields: any) {
@@ -76,4 +77,20 @@ export function addTrack(req: any, res: any) {
       res.json(rows);
     }
   });
+}
+
+export function editTrack(req: any, res: any) {
+  if (!req.body) {
+    res.json(null);
+  }
+  const id = req.params.id;
+  const trackUpdate = req.body as {[key: string]: any};
+
+  res.json(updateRow(id, trackUpdate, 'track'));
+}
+
+export function deleteTrack(req: any, res: any) {
+  const id = req.params.id;
+
+  res.json(deleteRow(id, 'track'));
 }

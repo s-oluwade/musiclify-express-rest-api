@@ -1,4 +1,5 @@
 import {pool} from '../db';
+import {deleteRow, updateRow} from '../helpers/database_functions';
 import {IAlbum} from '../models/album';
 
 export function getAllAlbums(req: any, res: any) {
@@ -76,4 +77,20 @@ export function addAlbum(req: any, res: any) {
       res.json(rows);
     }
   });
+}
+
+export function editAlbum(req: any, res: any) {
+  if (!req.body) {
+    res.json(null);
+  }
+  const id = req.params.id;
+  const albumUpdate = req.body as {[key: string]: any};
+
+  res.json(updateRow(id, albumUpdate, 'album'));
+}
+
+export function deleteAlbum(req: any, res: any) {
+  const id = req.params.id;
+
+  res.json(deleteRow(id, 'album'));
 }

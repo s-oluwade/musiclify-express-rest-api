@@ -1,16 +1,12 @@
-// REST API
-// OBJECTS: EMPLOYEE, DEPARTMENT
-import { addAlbum, getAlbum, getAllAlbums } from './controllers/album';
-import { addArtist, getAllArtists, getArtist } from './controllers/artist';
-import {createDepartment, getDepartment, getAllDepartments} from './controllers/department';
-import {createEmployee, getAllEmployees, getEmployee} from './controllers/employee';
-import { addTrack, getAllTracks, getTrack } from './controllers/track';
-import {getTracksForAllAlbums, getTracksFromAlbum} from './helpers';
+/**
+* A rest api for music 
+* It implements all endpoints for artists, albums and tracks
+* It uses mysql as the database
+*/
 
-// import express from 'express';
-// import bodyParser from 'body-parser';
-// import mysql2 from 'mysql2';
-// import 'dotenv/config';
+import { addAlbum, deleteAlbum, editAlbum, getAllAlbums, getAlbum } from './controllers/album';
+import { addArtist, deleteArtist, editArtist, getAllArtists, getArtist } from './controllers/artist';
+import { addTrack, deleteTrack, editTrack, getAllTracks, getTrack } from './controllers/track';
 
 require('dotenv').config();
 const express = require('express');
@@ -35,32 +31,31 @@ app.post('/', (req: any, res: any) => {
   res.send('post received');
 });
 
-app.get('/employees', getAllEmployees);
-app.get('/employees/:id', getEmployee);
-app.post('/employees', createEmployee);
-app.get('/departments', getAllDepartments);
-app.post('/departments', createDepartment);
-
+// get all
 app.get('/artists', getAllArtists);
-app.get('/artists/:id', getArtist);
-app.post('/artists', addArtist);
-
 app.get('/albums', getAllAlbums);
-app.get('/albums/:id', getAlbum);
-app.post('/albums', addAlbum);
-
 app.get('/tracks', getAllTracks);
+
+// get one
+app.get('/artists/:id', getArtist);
+app.get('/albums/:id', getAlbum);
 app.get('/tracks/:id', getTrack);
+
+// add one or more
+app.post('/artists', addArtist);
+app.post('/albums', addAlbum);
 app.post('/tracks', addTrack);
 
-app.put('/', (req: any, res: any) => {
-  res.send('Hello put!');
-});
+// edit one
+app.put('/artists/:id', editArtist);
+app.put('/albums/:id', editAlbum);
+app.put('/tracks/:id', editTrack);
 
-app.delete('/', (req: any, res: any) => {
-  res.send('Hello delete!');
-});
+// delete one
+app.delete('/artists/:id', deleteArtist);
+app.delete('/albums/:id', deleteAlbum);
+app.delete('/tracks/:id', deleteTrack);
 
 app.listen(port, () => {
-  console.log('listening on port: ' + port);
+  console.log('listening on http://localhost:' + port);
 });
